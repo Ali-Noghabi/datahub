@@ -2,6 +2,10 @@
 
 A secure industrial data transfer platform for replicating process data from isolated operational networks to downstream systems through a **physically enforced one-way communication channel**.
 
+<p align="center">
+  <img src="datahub.jpg" alt="Datahub Device" width="640"/>
+</p>
+
 ## Architecture
 
 ```text
